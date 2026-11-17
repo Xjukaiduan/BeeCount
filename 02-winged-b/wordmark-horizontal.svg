@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300">
+  <g transform="translate(28 38) scale(0.9375)"><defs>
+    <linearGradient id="p02w" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#FFE9A8"/><stop offset="0.55" stop-color="#E8A400"/><stop offset="1" stop-color="#B87400"/></linearGradient>
+    <linearGradient id="p02b" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#4A3218"/><stop offset="1" stop-color="#201407"/></linearGradient>
+  </defs>
+  <ellipse cx="70" cy="68" rx="48" ry="22" transform="rotate(-30 70 68)" fill="url(#p02w)" opacity="0.5"/>
+  <ellipse cx="186" cy="68" rx="48" ry="22" transform="rotate(30 186 68)" fill="url(#p02w)" opacity="0.5"/>
+  <ellipse cx="80" cy="80" rx="46" ry="21" transform="rotate(-30 80 80)" fill="url(#p02w)" stroke="#B87400" stroke-width="2.5"/>
+  <ellipse cx="176" cy="80" rx="46" ry="21" transform="rotate(30 176 80)" fill="url(#p02w)" stroke="#B87400" stroke-width="2.5"/>
+  <path d="M44 100 Q80 76 114 62" fill="none" stroke="#FFF6D8" stroke-width="3" stroke-linecap="round" opacity="0.75"/>
+  <path d="M212 100 Q176 76 142 62" fill="none" stroke="#FFF6D8" stroke-width="3" stroke-linecap="round" opacity="0.75"/>
+  <path d="M92 60 H152 C193 60 214 78 214 103 C214 123 202 135 183 140 C207 145 219 160 219 182 C219 210 197 228 155 228 H92 Z
+           M120 87 V127 H149 C162 127 170 121 170 107 C170 93 162 87 149 87 Z
+           M120 154 V201 H153 C167 201 175 194 175 178 C175 162 167 154 153 154 Z"
+        fill="url(#p02b)" fill-rule="evenodd"/></g>
+  <text x="306" y="172" font-family="Arial, Helvetica, sans-serif" font-weight="700" font-size="94" fill="#241705">BeeCount</text>
+  <text x="310" y="230" font-family="'Microsoft YaHei', 'PingFang SC', sans-serif" font-size="35" letter-spacing="9" fill="#E8A400">蜜蜂记账</text>
+</svg>

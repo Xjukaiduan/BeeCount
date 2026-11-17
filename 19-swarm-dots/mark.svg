@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="256" height="256" viewBox="0 0 256 256">
+<defs>
+    <radialGradient id="p19d" cx="0.35" cy="0.3" r="0.75"><stop offset="0" stop-color="#FFF6D8"/><stop offset="0.4" stop-color="#FFD966"/><stop offset="1" stop-color="#DE8700"/></radialGradient>
+    <radialGradient id="p19glow"><stop offset="0" stop-color="#FFD43B" stop-opacity="0.3"/><stop offset="1" stop-color="#FFD43B" stop-opacity="0"/></radialGradient>
+    <linearGradient id="p19w" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#CFF3E6" stop-opacity="0.95"/><stop offset="1" stop-color="#4FB79E" stop-opacity="0.35"/></linearGradient>
+  </defs>
+  <circle cx="128" cy="140" r="108" fill="url(#p19glow)"/>
+  <ellipse cx="62" cy="112" rx="30" ry="13" transform="rotate(-30 62 112)" fill="url(#p19w)" stroke="#3E9C86" stroke-width="2"/>
+  <ellipse cx="194" cy="112" rx="30" ry="13" transform="rotate(30 194 112)" fill="url(#p19w)" stroke="#3E9C86" stroke-width="2"/>
+  <g fill="url(#p19d)">
+    <circle cx="128" cy="46" r="17"/>
+    <circle cx="112" cy="80" r="9"/><circle cx="144" cy="80" r="9"/><circle cx="128" cy="92" r="11"/>
+    <circle cx="96" cy="104" r="8"/><circle cx="160" cy="104" r="8"/><circle cx="128" cy="118" r="12"/>
+    <circle cx="108" cy="130" r="9"/><circle cx="148" cy="130" r="9"/>
+    <circle cx="128" cy="150" r="11"/>
+    <circle cx="112" cy="164" r="8"/><circle cx="144" cy="164" r="8"/>
+    <circle cx="128" cy="182" r="9"/>
+    <circle cx="116" cy="198" r="6"/><circle cx="140" cy="198" r="6"/>
+    <circle cx="128" cy="214" r="5"/><circle cx="128" cy="228" r="3"/>
+  </g>
+</svg>

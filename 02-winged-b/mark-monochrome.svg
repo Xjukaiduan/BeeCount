@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="256" height="256" viewBox="0 0 256 256">
+<ellipse cx="80" cy="80" rx="46" ry="21" transform="rotate(-30 80 80)" fill="none" stroke="currentColor" stroke-width="11"/>
+  <ellipse cx="176" cy="80" rx="46" ry="21" transform="rotate(30 176 80)" fill="none" stroke="currentColor" stroke-width="11"/>
+  <path d="M92 60 H152 C193 60 214 78 214 103 C214 123 202 135 183 140 C207 145 219 160 219 182 C219 210 197 228 155 228 H92 Z
+           M120 87 V127 H149 C162 127 170 121 170 107 C170 93 162 87 149 87 Z
+           M120 154 V201 H153 C167 201 175 194 175 178 C175 162 167 154 153 154 Z"
+        fill="currentColor" fill-rule="evenodd"/>
+</svg>
